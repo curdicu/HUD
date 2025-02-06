@@ -8,7 +8,7 @@ Customizable HUD.
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/curd/HUD.git", .upToNextMajor(from: "1.0.0"))
+    .package(url: "https://github.com/curd/HUD.git", .branch("main))
 ]
 ```
 
