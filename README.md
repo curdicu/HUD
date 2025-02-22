@@ -1,4 +1,4 @@
-# HUD.Swift
+# HUD
 
 Customizable HUD.
 
@@ -12,6 +12,3 @@ dependencies: [
 ]
 ```
 
-## License
-
-`HUD.Swift` is available under the MIT license. See the LICENSE file for more info.
